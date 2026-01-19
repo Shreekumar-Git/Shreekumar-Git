@@ -69,6 +69,9 @@ Always learning, improving, and exploring new technologies 🔥
 
 Tech: `Java`, `Spring Boot`, `Thymeleaf`, `MySQL`, `JWT`, `Bootstrap`
 
+👉 Live Demo: https://ecommercewebsite-ff5w.onrender.com/
+📦 Source: https://github.com/Shreekumar-Git/EcommerceWebsite
+
 ---
 
 #### **🎟 Movie Ticket Booking System**
@@ -78,6 +81,8 @@ Tech: `Java`, `Spring Boot`, `Thymeleaf`, `MySQL`, `JWT`, `Bootstrap`
 
 Tech: `Java`, `Spring Boot`, `Thymeleaf`, `MySQL`
 
+👉 Live Demo: https://movieticketbooking-hjjy.onrender.com/
+📦 Source: https://github.com/Shreekumar-Git/movieticket
 ---
 
 ### 🎓 Certification
