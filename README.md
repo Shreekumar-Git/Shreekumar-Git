@@ -88,8 +88,9 @@ Tech: `Java`, `Spring Boot`, `Thymeleaf`, `MySQL`
 
 ### 🎓 Certification
 
-✔ **Full Stack Java Developer – GUVI**  
+✔ **Full Stack Java Developer – GUVI**    July 2025 - Sep 2025 
 • Learned Spring Boot, REST APIs, MySQL, CI/CD, Git, Agile and built capstone projects.
+Certificate - https://drive.google.com/file/d/1Gy3CXFI5xu-lWUFgaLMJCcvQQrOcWVqI/view?usp=drive_link
 
 ---
 
