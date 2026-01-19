@@ -103,13 +103,6 @@ Tech: `Java`, `Spring Boot`, `Thymeleaf`, `MySQL`
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreekumar-Git&theme=tokyonight" />
 </p>
 
----
-
-### 🌍 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shreekumar-Git&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
 
 ---
 
@@ -124,4 +117,14 @@ Tech: `Java`, `Spring Boot`, `Thymeleaf`, `MySQL`
 ### Im a Tech Enthusiast and like to dig deep through the advancements in new Technologies
 
 ---
+
+
+### 🌍 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shreekumar-Git&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
+---
+
 
